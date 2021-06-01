@@ -2,4 +2,5 @@
 <resources>
     <string name="todo">TODO</string>
     <string name="title_activity_note">Edit Note</string>
+    <string name="note_title_placeholder">note_title</string>
 </resources>
