@@ -25,6 +25,8 @@
     <string name="android_studio_android_com">android.studio@android.com</string>
     <string name="title_activity_main">NoteApp</string>
     <string name="logo_text">logo_text</string>
+    <string name="nav_share_message">Don\'t you think you\'ve shared enough</string>
+    <string name="nav_send_message">Send</string>
 
 
 </resources>

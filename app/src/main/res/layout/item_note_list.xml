@@ -41,7 +41,7 @@
                 android:layout_height="27dp"
                 android:layout_marginTop="4dp"
                 android:text="TextView"
-                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textAppearance="@style/CourseTitle"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.888"
                 app:layout_constraintStart_toStartOf="parent"
@@ -49,9 +49,10 @@
 
             <TextView
                 android:id="@+id/text_title"
-                android:layout_width="309dp"
-                android:layout_height="18dp"
+                android:layout_width="308dp"
+                android:layout_height="28dp"
                 android:layout_marginTop="2dp"
+                android:layout_marginBottom="8dp"
                 android:text="TextView"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 app:layout_constraintBottom_toBottomOf="parent"
